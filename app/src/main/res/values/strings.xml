@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">maps colonies</string>
-    <string name="navigation_drawer_open">Open</string>
-    <string name="navigation_drawer_close">Close</string>
-    <string name="usuario">Usuari</string>
+    <string name="app_name">Colonies Cat</string>
+    <string name="title_activity_maps">Colonies Cat</string>
 </resources>
